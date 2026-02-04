@@ -1,9 +1,14 @@
 import React from 'react'
+import Chai from './chai'
 
 const App = () => {
   return (
-    <h1>chai aur react with vit</h1>
-    )
+    <>
+      <Chai />
+      <h1>helo</h1>
+    </>
+
+  )
 }
 
 export default App
