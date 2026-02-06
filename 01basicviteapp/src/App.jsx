@@ -5,7 +5,7 @@ const App = () => {
   return (
     <>
       <Chai />
-      <h1>helo</h1>
+      <h1>chai aur react</h1>
     </>
 
   )
